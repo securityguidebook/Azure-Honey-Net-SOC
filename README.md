@@ -1,5 +1,5 @@
 # Azure Honeynet: Simulating Real-World Cyber Attacks
-![Cloud Honeynet / SOC](https://imgur.com/a/HZZmQzK)
+![Cloud Honeynet / SOC](https://imgur.com/a/96Fa0XK)
 
 ## Introduction
 
