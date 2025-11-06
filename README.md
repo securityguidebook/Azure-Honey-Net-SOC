@@ -100,8 +100,8 @@ enabling the creation of visualizations that effectively illustrated the cyber t
 ## Metrics Before Hardening / Security Controls
 
 The following table shows the metrics we measured in our insecure environment for 24 hours:
-Start Time 2023-05-02 17:02:00 PM
-Stop Time 2023-05-03 17:02:00 PM
+Start Time 2023-07-02 17:02:00 PM
+Stop Time 2023-07-03 17:02:00 PM
 
 | Metric                   | Count
 | ------------------------ | -----
@@ -116,8 +116,8 @@ Stop Time 2023-05-03 17:02:00 PM
 ## Metrics After Hardening / Security Controls
 
 The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
-Start Time 2023-03-18 15:37
-Stop Time	2023-03-19 15:37
+Start Time 2025-09-18 15:37
+Stop Time	2025-09-19 15:37
 
 
 | Metric                   | Count
